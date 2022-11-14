@@ -1,3 +1,3 @@
 # Resume
 
-[Current Resume](https://tylerunderwood.github.io/resume/)
+<a href="https://tylerunderwood.github.io/resume/" target="_blank">Current Resume</a>
